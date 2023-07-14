@@ -1,6 +1,6 @@
 class Rect{
 
-    constructor(originX, originY, width, height, color = '#00000'){
+    constructor(originX, originY, width, height, color = '#000000'){
 
         this.originX = originX;
         this.originY = originY;
