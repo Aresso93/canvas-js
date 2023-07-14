@@ -1,0 +1,14 @@
+body{
+    margin: 0px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(49, 49, 49);
+}
+
+.my-canvas{
+    background-color: white;
+    /* height: 780px;
+    width: 900px; */
+}
